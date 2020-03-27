@@ -1,0 +1,2 @@
+rootProject.name='THUC_HANH_FACEBOOK'
+include ':app'
